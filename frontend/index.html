@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <!-- Inclusion du lien CSS de Bootstrap -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <!-- Police de caractères Quicksand Semibold 600 & Abril Regular 400-->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Muli&family=Quicksand:wght@600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Inclusion du lien de mon CSS -->
+    <link rel="stylesheet" href="/static/css/style.css" />
+    <!-- Inclusion des liens Javascript de Bootstrap -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-xl justify-content-center static-top">
+      <img class="logo" src="/static/assets/logo.svg" alt="Logo" />
+      <div class="container d-flex align-items-center justify-content-center">
+        <a href="/" class="navbar-brand m-5 text-dark nav-items" data-link
+          >Home</a
+        >
+        <a
+          href="/animals"
+          class="navbar-brand m-5 text-dark nav-items"
+          data-link
+          >Pet listing</a
+        >
+      </div>
+    </nav>
+    <div id="app"></div>
+    <script type="module" src="./static/js/index.js"></script>
+  </body>
+  <footer>
+    <p class="footer d-flex justify-content-center mt-5">
+      &copy; 2023 PetFinder. All rights reserved.
+    </p>
+  </footer>
+</html>

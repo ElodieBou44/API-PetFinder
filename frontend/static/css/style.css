@@ -1,0 +1,56 @@
+:root{
+    --dark-pink: #bd807780;
+    --dark-grey: #7E7B7A;
+    --med-grey: #CAC7C4; 
+    --light-grey: #F2F2F0;
+}
+
+/***** Navigation *****/
+
+nav{
+    background-color: var(--dark-pink);
+}
+
+.dark{
+    color:#212529;
+}
+
+.nav-items{
+    font-size: 2rem; 
+}
+
+.logo{
+    width: 10%; 
+} 
+
+/***** Police *****/
+
+h1, h2, .nav-items, .btn{
+    font-family: 'Muli', sans-serif;
+}
+
+p, h3{
+    font-family: 'Quicksand', sans-serif;
+    color: var(--dark-grey);
+}
+
+/***** Page d'accueil *****/
+
+.home-image{
+    border: solid 10px var(--light-grey); 
+}
+
+/***** Page de liste *****/
+.card{
+    height: 35em;
+}
+
+.card-img-top{
+    height: 17em;
+}
+
+/***** Footer *****/
+
+footer{
+    color: var(--med-grey);
+}

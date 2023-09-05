@@ -1,0 +1,1525 @@
+{
+  "animals": [
+    {
+      "id": 68658229,
+      "organization_id": "TX2269",
+      "url": "https://www.petfinder.com/dog/dumpling-dessert-68658229/wa/marysville/three-little-pitties-rescue-tx2269/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Curious",
+        "Loves kisses",
+        "Independent",
+        "Affectionate",
+        "Loyal",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Funny"
+      ],
+      "name": "Dumpling Dessert",
+      "description": "MEET AND GREETS AVAILABLE, LOCATED IN MERCER ISLAND, WA\n\nThis cutie is Dumpling Dessert. They are currently 14 pounds, 2...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/1/?bust=1693489689&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/1/?bust=1693489689&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/1/?bust=1693489689&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/1/?bust=1693489689"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/2/?bust=1693489690&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/2/?bust=1693489690&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/2/?bust=1693489690&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/2/?bust=1693489690"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/3/?bust=1693489690&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/3/?bust=1693489690&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/3/?bust=1693489690&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/3/?bust=1693489690"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/4/?bust=1693489691&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/4/?bust=1693489691&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/4/?bust=1693489691&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/4/?bust=1693489691"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/5/?bust=1693489692&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/5/?bust=1693489692&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/5/?bust=1693489692&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/5/?bust=1693489692"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/6/?bust=1693489692&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/6/?bust=1693489692&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/6/?bust=1693489692&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/6/?bust=1693489692"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/1/?bust=1693489689&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/1/?bust=1693489689&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/1/?bust=1693489689&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658229/1/?bust=1693489689"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:48:14+0000",
+      "published_at": "2023-08-31T13:48:13+0000",
+      "distance": null,
+      "contact": {
+        "email": "samanthar@threelittlepittiesrescue.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Marysville",
+          "state": "WA",
+          "postcode": "98270",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658229"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2269"
+        }
+      }
+    },
+    {
+      "id": 68658227,
+      "organization_id": "CO91",
+      "url": "https://www.petfinder.com/cat/jack-68658227/co/golden/foothills-animal-shelter-co91/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Long Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Jack",
+      "description": "Hi, my name is Jack! My friend Huey (284126) and I may be adopted together for a shared $50 adoption...",
+      "organization_animal_id": "284125",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:47:41+0000",
+      "published_at": "2023-08-31T13:47:40+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@fas4pets.org",
+        "phone": "(303) 278-7575",
+        "address": {
+          "address1": "580 McIntyre St (new)",
+          "address2": null,
+          "city": "Golden",
+          "state": "CO",
+          "postcode": "80401",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658227"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/co91"
+        }
+      }
+    },
+    {
+      "id": 68658228,
+      "organization_id": "CO91",
+      "url": "https://www.petfinder.com/cat/huey-68658228/co/golden/foothills-animal-shelter-co91/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Long Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Huey",
+      "description": "Hi, my name is Huey! My friend Jack (284125) and I may be adopted together for a shared $50 adoption...",
+      "organization_animal_id": "284126",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:47:41+0000",
+      "published_at": "2023-08-31T13:47:40+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@fas4pets.org",
+        "phone": "(303) 278-7575",
+        "address": {
+          "address1": "580 McIntyre St (new)",
+          "address2": null,
+          "city": "Golden",
+          "state": "CO",
+          "postcode": "80401",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658228"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/co91"
+        }
+      }
+    },
+    {
+      "id": 68658225,
+      "organization_id": "WI111",
+      "url": "https://www.petfinder.com/dog/shoestring-68658225/wi/waukesha/humane-animal-welfare-society-of-waukesha-county-wi111/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Shoestring",
+      "description": "Primary Color: White Secondary Color: Brown Weight: 3.6kg Age: 0yrs 0mths 7wks Animal has been Neutered",
+      "organization_animal_id": "75577",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:47:12+0000",
+      "published_at": "2023-08-31T13:47:11+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(262) 542-8851",
+        "address": {
+          "address1": "701 Northview Road",
+          "address2": "PO Box 834",
+          "city": "Waukesha",
+          "state": "WI",
+          "postcode": "53187",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658225"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/wi111"
+        }
+      }
+    },
+    {
+      "id": 68658224,
+      "organization_id": "MA575",
+      "url": "https://www.petfinder.com/dog/buddy-68658224/ma/saugus/gals-best-pal-ma575/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Yellow / Tan / Blond / Fawn",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Buddy",
+      "description": "Our BUDDY \n\nThis very handsome 1 yo/50 lb Lab mix will steal your heart!\n\nThis guy is doing great in...",
+      "organization_animal_id": "ps_93451617",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:47:11+0000",
+      "published_at": "2023-08-31T13:47:10+0000",
+      "distance": null,
+      "contact": {
+        "email": "team@galsbestpal.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Saugus",
+          "state": "MA",
+          "postcode": "01906",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658224"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ma575"
+        }
+      }
+    },
+    {
+      "id": 68658222,
+      "organization_id": "NJ283",
+      "url": "https://www.petfinder.com/dog/peanut-1-y-o-6-lbs-68658222/nj/clinton/rogers-rescues-nj283/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Chihuahua",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brindle",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [
+        "Curious",
+        "Independent",
+        "Funny"
+      ],
+      "name": "PEANUT - 1 y/o - 6 lbs",
+      "description": "IF YOU WOULD LIKE TO APPLY, PLEASE USE THE FOLLOWING LINK BELOW FOR OUR ONLINE ADOPTION APPLICATION:\nhttp://rogersrescues.com/dog-adoption/\n________________________________________________________________________________________\n\nENERGY...",
+      "organization_animal_id": "Ang",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/1/?bust=1693489617&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/1/?bust=1693489617&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/1/?bust=1693489617&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/1/?bust=1693489617"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/2/?bust=1693489618&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/2/?bust=1693489618&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/2/?bust=1693489618&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/2/?bust=1693489618"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/3/?bust=1693489618&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/3/?bust=1693489618&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/3/?bust=1693489618&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/3/?bust=1693489618"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/4/?bust=1693489619&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/4/?bust=1693489619&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/4/?bust=1693489619&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/4/?bust=1693489619"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/5/?bust=1693489619&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/5/?bust=1693489619&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/5/?bust=1693489619&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/5/?bust=1693489619"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/6/?bust=1693489620&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/6/?bust=1693489620&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/6/?bust=1693489620&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/6/?bust=1693489620"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/1/?bust=1693489617&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/1/?bust=1693489617&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/1/?bust=1693489617&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658222/1/?bust=1693489617"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:47:02+0000",
+      "published_at": "2023-08-31T13:47:01+0000",
+      "distance": null,
+      "contact": {
+        "email": "Please-Use-Our-Online-Adoption-Application-@rogersrescues.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Clinton",
+          "state": "NJ",
+          "postcode": "08809",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658222"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nj283"
+        }
+      }
+    },
+    {
+      "id": 68658221,
+      "organization_id": "MN452",
+      "url": "https://www.petfinder.com/dog/dakota-68658221/mn/farmington/new-leash-rescue-mn452/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Maltese",
+        "secondary": "Miniature Poodle",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": false,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Dakota ",
+      "description": "If you are interested in any of the dogs available at New Leash Rescue, you can reach out to the...",
+      "organization_animal_id": null,
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:46:31+0000",
+      "published_at": "2023-08-31T13:46:30+0000",
+      "distance": null,
+      "contact": {
+        "email": "Krkallemeyn@hotmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Farmington",
+          "state": "MN",
+          "postcode": "55024",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658221"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/mn452"
+        }
+      }
+    },
+    {
+      "id": 68658215,
+      "organization_id": "MD17",
+      "url": "https://www.petfinder.com/dog/cap-68658215/md/chestertown/mid-atlantic-kent-county-border-collie-rescue-md17/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Border Collie",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Cap ",
+      "description": null,
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/2/?bust=1693489579&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/2/?bust=1693489579&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/2/?bust=1693489579&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/2/?bust=1693489579"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/1/?bust=1693489578&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/1/?bust=1693489578&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/1/?bust=1693489578&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/1/?bust=1693489578"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/3/?bust=1693489580&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/3/?bust=1693489580&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/3/?bust=1693489580&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/3/?bust=1693489580"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/4/?bust=1693489580&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/4/?bust=1693489580&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/4/?bust=1693489580&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/4/?bust=1693489580"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/5/?bust=1693489581&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/5/?bust=1693489581&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/5/?bust=1693489581&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/5/?bust=1693489581"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/6/?bust=1693489582&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/6/?bust=1693489582&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/6/?bust=1693489582&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/6/?bust=1693489582"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/2/?bust=1693489579&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/2/?bust=1693489579&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/2/?bust=1693489579&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68658215/2/?bust=1693489579"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:46:24+0000",
+      "published_at": "2023-08-31T13:46:23+0000",
+      "distance": null,
+      "contact": {
+        "email": "slr@mabcr.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Chestertown",
+          "state": "MD",
+          "postcode": "21620",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658215"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/md17"
+        }
+      }
+    },
+    {
+      "id": 68658207,
+      "organization_id": "KS47",
+      "url": "https://www.petfinder.com/dog/rip-68658207/ks/topeka/helping-hands-humane-society-ks47/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Cattle Dog / Blue Heeler",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Rip",
+      "description": "Primary Color: Blue Merle Weight: 50.5lbs Age: 1yrs 6mths 3wks Animal has been Neutered",
+      "organization_animal_id": "125507",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:45:28+0000",
+      "published_at": "2023-08-31T13:45:27+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@hhhstopeka.org",
+        "phone": "785-233-7325",
+        "address": {
+          "address1": "5720 SW 21st St.",
+          "address2": null,
+          "city": "Topeka",
+          "state": "KS",
+          "postcode": "66604",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658207"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ks47"
+        }
+      }
+    },
+    {
+      "id": 68658205,
+      "organization_id": "CA912",
+      "url": "https://www.petfinder.com/dog/casen-68658205/ca/milpitas/humane-society-silicon-valley-ca912/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Casen",
+      "description": "I got dreams, BIG dreams! Going for long walks, playing in a pile of toys, and eating all the yummy...",
+      "organization_animal_id": "211403",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:45:27+0000",
+      "published_at": "2023-08-31T13:45:26+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptions@hssv.org",
+        "phone": "(408) 262-2133",
+        "address": {
+          "address1": "901 Ames Ave.",
+          "address2": null,
+          "city": "Milpitas",
+          "state": "CA",
+          "postcode": "95035",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658205"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca912"
+        }
+      }
+    },
+    {
+      "id": 68658206,
+      "organization_id": "CA912",
+      "url": "https://www.petfinder.com/dog/lance-68658206/ca/milpitas/humane-society-silicon-valley-ca912/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Lance",
+      "description": "Hi! I just got my paws off a Rescue Run and I am ready for the next step in my...",
+      "organization_animal_id": "211421",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:45:27+0000",
+      "published_at": "2023-08-31T13:45:26+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptions@hssv.org",
+        "phone": "(408) 262-2133",
+        "address": {
+          "address1": "901 Ames Ave.",
+          "address2": null,
+          "city": "Milpitas",
+          "state": "CA",
+          "postcode": "95035",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658206"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca912"
+        }
+      }
+    },
+    {
+      "id": 68658194,
+      "organization_id": "PA802",
+      "url": "https://www.petfinder.com/cat/melina-aka-amber-68658194/pa/philadelphia/animal-care-and-control-team-of-philadelphia-pa802/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "Buff / Tan / Fawn",
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "melina aka Amber",
+      "description": "!!!Not Currently Available for Adoption!!! This animal has only recently entered the shelter and is not yet available through ACCT...",
+      "organization_animal_id": "ACCT-A-31085",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:45:23+0000",
+      "published_at": "2023-08-31T13:45:22+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@acctphilly.org",
+        "phone": "(267) 385-3800",
+        "address": {
+          "address1": "111 W. Hunting Park Ave.",
+          "address2": null,
+          "city": "Philadelphia",
+          "state": "PA",
+          "postcode": "19140",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658194"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/pa802"
+        }
+      }
+    },
+    {
+      "id": 68658195,
+      "organization_id": "PA802",
+      "url": "https://www.petfinder.com/dog/nalia-68658195/pa/philadelphia/animal-care-and-control-team-of-philadelphia-pa802/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "nalia",
+      "description": null,
+      "organization_animal_id": "ACCT-A-146231",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:45:23+0000",
+      "published_at": "2023-08-31T13:45:22+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@acctphilly.org",
+        "phone": "(267) 385-3800",
+        "address": {
+          "address1": "111 W. Hunting Park Ave.",
+          "address2": null,
+          "city": "Philadelphia",
+          "state": "PA",
+          "postcode": "19140",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658195"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/pa802"
+        }
+      }
+    },
+    {
+      "id": 68658196,
+      "organization_id": "PA802",
+      "url": "https://www.petfinder.com/dog/habanero-68658196/pa/philadelphia/animal-care-and-control-team-of-philadelphia-pa802/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [
+        "Waiver Fearful",
+        "Waiver No Kids"
+      ],
+      "name": "Habanero",
+      "description": null,
+      "organization_animal_id": "ACCT-A-146220",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:45:23+0000",
+      "published_at": "2023-08-31T13:45:22+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@acctphilly.org",
+        "phone": "(267) 385-3800",
+        "address": {
+          "address1": "111 W. Hunting Park Ave.",
+          "address2": null,
+          "city": "Philadelphia",
+          "state": "PA",
+          "postcode": "19140",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658196"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/pa802"
+        }
+      }
+    },
+    {
+      "id": 68658193,
+      "organization_id": "PA802",
+      "url": "https://www.petfinder.com/dog/spicy-68658193/pa/philadelphia/animal-care-and-control-team-of-philadelphia-pa802/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": false,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [
+        "Adult Only Home Preferred",
+        "Foster eligible",
+        "Lived with Cats",
+        "Lived with Children",
+        "Lived with Dogs"
+      ],
+      "name": "Spicy",
+      "description": null,
+      "organization_animal_id": "ACCT-A-142457",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:45:22+0000",
+      "published_at": "2023-08-31T13:45:21+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@acctphilly.org",
+        "phone": "(267) 385-3800",
+        "address": {
+          "address1": "111 W. Hunting Park Ave.",
+          "address2": null,
+          "city": "Philadelphia",
+          "state": "PA",
+          "postcode": "19140",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658193"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/pa802"
+        }
+      }
+    },
+    {
+      "id": 68658191,
+      "organization_id": "PA1153",
+      "url": "https://www.petfinder.com/cat/aeris-68658191/pa/philadelphia/kitten-snatchers-pa1153/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Aeris",
+      "description": "Aeris is the biggest sister from her litter of three girls. She can be shy and is looking for a...",
+      "organization_animal_id": "19714281-KS01339",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:44:35+0000",
+      "published_at": "2023-08-31T13:44:34+0000",
+      "distance": null,
+      "contact": {
+        "email": "cats@kittensnatchers.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Philadelphia",
+          "state": "PA",
+          "postcode": "19148",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658191"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/pa1153"
+        }
+      }
+    },
+    {
+      "id": 68658188,
+      "organization_id": "TX2471",
+      "url": "https://www.petfinder.com/dog/54008381-68658188/tx/el-paso/el-paso-animal-services-tx2471/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Finnish Lapphund",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "54008381",
+      "description": null,
+      "organization_animal_id": "54008381",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:44:15+0000",
+      "published_at": "2023-08-31T13:44:14+0000",
+      "distance": null,
+      "contact": {
+        "email": "epasadoptions@elpasotexas.gov",
+        "phone": "(915) 212-7297",
+        "address": {
+          "address1": "5001 Fred Wilson",
+          "address2": null,
+          "city": "El Paso",
+          "state": "TX",
+          "postcode": "79906",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658188"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2471"
+        }
+      }
+    },
+    {
+      "id": 68658189,
+      "organization_id": "TX2471",
+      "url": "https://www.petfinder.com/dog/54008400-68658189/tx/el-paso/el-paso-animal-services-tx2471/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Finnish Lapphund",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": "Black",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "54008400",
+      "description": null,
+      "organization_animal_id": "54008400",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:44:15+0000",
+      "published_at": "2023-08-31T13:44:14+0000",
+      "distance": null,
+      "contact": {
+        "email": "epasadoptions@elpasotexas.gov",
+        "phone": "(915) 212-7297",
+        "address": {
+          "address1": "5001 Fred Wilson",
+          "address2": null,
+          "city": "El Paso",
+          "state": "TX",
+          "postcode": "79906",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658189"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2471"
+        }
+      }
+    },
+    {
+      "id": 68658190,
+      "organization_id": "TX2471",
+      "url": "https://www.petfinder.com/dog/54008338-68658190/tx/el-paso/el-paso-animal-services-tx2471/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Finnish Lapphund",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "54008338",
+      "description": null,
+      "organization_animal_id": "54008338",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:44:15+0000",
+      "published_at": "2023-08-31T13:44:14+0000",
+      "distance": null,
+      "contact": {
+        "email": "epasadoptions@elpasotexas.gov",
+        "phone": "(915) 212-7297",
+        "address": {
+          "address1": "5001 Fred Wilson",
+          "address2": null,
+          "city": "El Paso",
+          "state": "TX",
+          "postcode": "79906",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658190"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2471"
+        }
+      }
+    },
+    {
+      "id": 68658186,
+      "organization_id": "TX2471",
+      "url": "https://www.petfinder.com/dog/54008415-68658186/tx/el-paso/el-paso-animal-services-tx2471/?referrer_id=9499267f-551a-43e2-bbf0-6631394cb999&utm_source=api&utm_medium=partnership&utm_content=9499267f-551a-43e2-bbf0-6631394cb999",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Finnish Lapphund",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": "Brown / Chocolate",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "54008415",
+      "description": null,
+      "organization_animal_id": "54008415",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-31T13:44:14+0000",
+      "published_at": "2023-08-31T13:44:13+0000",
+      "distance": null,
+      "contact": {
+        "email": "epasadoptions@elpasotexas.gov",
+        "phone": "(915) 212-7297",
+        "address": {
+          "address1": "5001 Fred Wilson",
+          "address2": null,
+          "city": "El Paso",
+          "state": "TX",
+          "postcode": "79906",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/68658186"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2471"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 319541,
+    "current_page": 1,
+    "total_pages": 15978,
+    "_links": {
+      "next": {
+        "href": "/v2/animals?page=2"
+      }
+    }
+  }
+}
